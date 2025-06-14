@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon be/server.js"
+    "dev": "nodemon backend/server.js"
   },
   "author": "",
   "license": "ISC",
